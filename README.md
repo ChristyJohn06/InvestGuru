@@ -47,8 +47,9 @@ Got it! Here's a clean, copy-paste-friendly `README.md` content for your **Inves
 
 **Christy John**
 MCA Student | Software Developer Aspirant
-GitHub: yourusername
-LinkedIn: \[Your LinkedIn URL]
+GitHub: https://github.com/ChristyJohn06
+LinkedIn: www.linkedin.com/in/christy-john-4ab98224a
+
 
 ## 📄 License
 
