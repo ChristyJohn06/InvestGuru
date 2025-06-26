@@ -1,6 +1,3 @@
-Got it! Here's a clean, copy-paste-friendly `README.md` content for your **InvestGuru** project **without** any code blocks:
-
----
 
 # 📈 InvestGuru: Live Stock Analysis & Prediction System
 
